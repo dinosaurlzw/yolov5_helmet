@@ -1,0 +1,8 @@
+train:  datasets/hat_dataset/coco/images/train
+val:   datasets/hat_dataset/coco/images/val
+
+
+
+nc: 2
+names: ['hat_person','no_hat']
+
